@@ -1,4 +1,6 @@
-el esquema nos muestra un registro de usuario
+archivos contenidos en la subcarpeta (src)  reginstrousuario
+
+de el esquema nos muestra un registro de usuario
 
 orden de inicio 
 
